@@ -1,4 +1,4 @@
-# test
+# Functionality discussion
 
 1. load judgment from www.rechtspraak.nl
 https://www.rechtspraak.nl/Uitspraken-en-nieuws/Uitspraken/Paginas/Open-Data.aspx
